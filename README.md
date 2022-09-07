@@ -5,7 +5,7 @@ Hii![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [bhanubenak@gmail.com](mailto:bhanubenak@gmail.com)
 * 🧠  I'm learning Django, javascrpt.
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I like coffee😁
+* ⚡  I like coffee😋
 
 <a href="https://www.twitter.com/bhanubenak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bhanubenak?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
