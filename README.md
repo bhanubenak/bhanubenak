@@ -1,11 +1,10 @@
 Hii![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Bhanu Benak
 ===================================================================================================================================
 
-* 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [bhanubenak@gmail.com](mailto:bhanubenak@gmail.com)
-* 🧠  I'm learning Django, javascrpt frameworks.
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I like coffee😋
+* 🧠  Currently learning Django, PyScrit and JS frameworks.
+* 🤝  I'm open to collaborating on Projects.
+* ⚡  Python being fav language.
 
 <a href="https://www.twitter.com/bhanubenak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bhanubenak?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
