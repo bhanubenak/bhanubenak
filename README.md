@@ -46,7 +46,7 @@ src="https://img.shields.io/github/followers/bhanubenak?logo=github&style=for-th
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
 			width="32" height="32" />
 	</a>
-	<a href="https://www.twitter.com/bhanu_bnak" target="_blank" rel="noreferrer">
+	<a href="https://twitter.com/bhanubenak" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
 			width="32" height="32" />
 	</a>
