@@ -1,7 +1,7 @@
 Hii![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Bhanu Benak
 ===================================================================================================================================
 
-* ✉️  You can contact me at [bhanubenak@gmail.com](mailto:bhanubenak@gmail.com)
+* ✉️  You can contact me at [Bhanu Benak](https://in.linkedin.com/in/bhanubenak)
 * 🧠  Currently learning Django, PyScrit and JS frameworks.
 * 🤝  I'm open to collaborating on Projects.
 * ⚡  Python being fav language.
