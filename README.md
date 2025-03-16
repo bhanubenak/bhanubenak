@@ -2,7 +2,7 @@ Hii![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 * ✉️  You can contact me at [Bhanu Benak](https://in.linkedin.com/in/bhanubenak)
-* 🧠  Currently learning Django, PyScrit and JS frameworks.
+* 🧠  Currently learning Django, PyScrit and React framework.
 * 🤝  I'm open to collaborating on Projects.
 * ⚡  Python being fav language.
 
